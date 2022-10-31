@@ -7,10 +7,10 @@ How to run: Download the zip file for this repository. Open the file and select 
     
 Future Improvements: 
     
-    - Give the ability to click to change the color of the eyes
-    
-    - Add a sigh sound when your cursor is directly above the eyes
+                  - Give the ability to click to change the color of the eyes
+        
+                  - Add a sigh sound when your cursor is directly above the eyes
                          
-    - Add a selection interface in the top right that allows you to change the color of the background
-                        
+                  - Add a selection interface in the top right that allows you to change the color of the background
+                            
 
