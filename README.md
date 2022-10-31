@@ -1,6 +1,6 @@
 # Eyes Project:
 
-<img src= ".eyes.png" width = '300' />
+<img src= "/eyes.png" width = '300' />
 
 This project creates a set of eyes that is able to follow your cursor. As you move your cursor around the eyes, 
 the eyes will follow your cursor 360 degree in whichever direction your mouse moves.
